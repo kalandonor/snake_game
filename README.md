@@ -16,9 +16,9 @@ sudo apt install python-tk
 Use the Up, Down, Right, Left arrow keys on your keyboard to change direction with your snake.
 
 If you want to run the program, enter to the project directory and execute the main.py with python:
-
+```
 git clone https://github.com/kalandonor/snake_game.git
 cd snake_game
 python main.py
-
+```
 Enjoy!
